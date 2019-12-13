@@ -9,6 +9,6 @@ public class Corrente{
 		resistencia=sc.nextDouble();
 		tensao=sc.nextDouble();
 		corrente=tensao/resistencia;
-		System.out.printf("Tensao he de %02.02f Ω\n",corrente);
+		System.out.printf("Tensao he de %02.02f A\n",corrente);
 	}
 }
