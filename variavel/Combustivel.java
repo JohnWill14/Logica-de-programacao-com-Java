@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Combustivel6{
+public class Combustivel{
 	public static void main(String args[]){
 		Scanner sc=new Scanner(System.in);
 		double velocidade,tempo,distancia,litros;

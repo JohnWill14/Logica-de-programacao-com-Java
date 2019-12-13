@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AreaCirculo1{
+public class AreaCirculo{
 	public static void main(String args[]){
 		Scanner sc=new Scanner(System.in);
 		double raio=sc.nextDouble(),pi= 3.141592654;

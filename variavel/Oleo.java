@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Oleo4{
+public class Oleo{
 	public static void main(String args[]){
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Insira o valor do raio da lata, em centimetros");

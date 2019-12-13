@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Prestacao9{
+public class Prestacao{
 	public static void main(String args[]){
 		Scanner sc=new Scanner(System.in);
 		double valor,taxa,tempo,prestacao;
