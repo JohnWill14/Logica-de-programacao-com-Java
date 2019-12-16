@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+//Programa baseado no Exercicio 3 de variaveis
 public class Conversor{
 	public static void main(String args[]){
 		Scanner sc=new Scanner(System.in);

@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Programa baseado no Exercicio 16 de variaveis
 public class Esfera{
 	public static void main(String[] args) {
 		Scanner sc;

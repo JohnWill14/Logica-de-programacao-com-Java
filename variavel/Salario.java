@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+//Programa baseado no Exercicio 2 de variaveis
 public class Salario{
 	public static void main(String args[]){
 		Scanner sc=new Scanner(System.in);

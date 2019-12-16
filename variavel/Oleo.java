@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Programa baseado no Exercicio 5 de variaveis
 
 public class Oleo{
 	public static void main(String args[]){

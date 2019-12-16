@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Programa baseado no Exercicio 13 ou 14 de variaveis
 public class Dolar{
 	public static void main(String args[]){
 		Scanner sc=new Scanner(System.in);

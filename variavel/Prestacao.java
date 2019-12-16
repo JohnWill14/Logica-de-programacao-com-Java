@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Programa baseado no Exercicio 8 de variaveis
 public class Prestacao{
 	public static void main(String args[]){
 		Scanner sc=new Scanner(System.in);

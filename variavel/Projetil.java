@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Programa baseado no Exercicio 15 de variaveis
 public class Projetil{
 	public static void main(String[] args) {
 		Scanner sc; 

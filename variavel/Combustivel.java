@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Programa baseado no Exercicio 6 de variaveis
 
 public class Combustivel{
 	public static void main(String args[]){
